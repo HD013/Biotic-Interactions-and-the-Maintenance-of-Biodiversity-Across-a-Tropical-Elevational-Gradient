@@ -3,7 +3,7 @@ An overview of how biotic interactions operate within communities across scales
 
 <br>
 
-The manuscripts contained here provide a broad overview of species dynamics within plant communities of differeing diversities and scales. The study systems used here are tropical tree communities, however, the theories that these studies test are time tested and widely applied in other biological study systems and across disciplines. Although, some of the theories tested here are well established and have been tested before in the past, the use of recently developed (see here for more info) community scale metabolomic sampling and analyses allowed us to sample and match chemical profiles between and among species with a specificity that was not possible in the past.
+The manuscripts contained here provide a broad overview of species dynamics within plant communities of differeing diversities and scales. The study systems used here are tropical tree communities, however, the theories that these studies test are time tested and widely applied in other biological study systems and across disciplines. Although, some of the theories tested here are well established and have been tested before in the past, the use of recently developed ([see here for more info](http://briansedio.weebly.com/)) community scale metabolomic sampling and analyses allowed us to sample and match chemical profiles between and among species with a specificity that was not possible in the past.
 
 <br>
 
