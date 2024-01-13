@@ -7,7 +7,7 @@ The manuscripts contained here provide a broad overview of species dynamics with
 
 <br>
 
-See_the_full_work_here
+[See_the_full_work_here](https://hdo13.weebly.com/uploads/1/4/8/3/148306044/dissertation_pr2_.pdf)
 
 <br>
 
@@ -86,4 +86,4 @@ between species.
 
 <br>
 
-Continue reading
+[Continue reading](https://hdo13.weebly.com/uploads/1/4/8/3/148306044/dissertation_pr2_.pdf)
